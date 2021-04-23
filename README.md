@@ -1,6 +1,6 @@
 # CS50w-Project 0
 
-This repository contains the code for the first assignment in CS50's Web Programming with Python and Javascript
+This repository contains the code for the first assignment in CS50's Web Programming with Python and Javascript - create a clone of Google's search page. 
 
 link: https://cs50.harvard.edu/web/2020/. 
 
