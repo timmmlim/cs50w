@@ -1,4 +1,10 @@
-### Requirements: 
+# CS50w-Project 0
+
+This repository contains the code for the first assignment in [CS50's Web Programming with Python and Javascript] (https://cs50.harvard.edu/web/2020/). 
+
+___
+
+### Assignment Specifications
 
 -   **Pages**. Your website should have at least three pages: one for Google Search, one for Google Image Search, and one for Google Advanced Search.
     -   On the Google Search page, there should be links in the upper-right of the page to go to Image Search or Advanced Search. On each of the other two pages, there should be a link in the upper-right to go back to Google Search.
