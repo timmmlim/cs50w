@@ -1,0 +1,52 @@
+#search_bar{
+    border:50px;
+    width:30%;
+    margin: 0 auto;
+    text-align:center;
+}
+
+.topnav-right{
+    margin: 0 auto;
+    text-align:right;
+}
+
+#fake_logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-style:none;
+    outline:none;
+}
+
+#main{
+    text-align: center;
+}
+
+#small_fake_logo{
+    width: 7%; 
+    margin-bottom: 20px;
+}
+
+#advanced_form{
+    margin-left: 40px;
+}
+
+.input-group{
+    width: 50%;
+    margin-bottom: 40px;
+}
+
+label,
+input{
+  display: inline-block;
+}
+
+label {
+  width: 30%;  
+}
+
+label+input {
+  width: 30%;
+  margin: 0 100 50 100;
+}
